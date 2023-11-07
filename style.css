@@ -1,0 +1,29 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #585454;
+    margin: 0;
+}
+
+#mycanvas {
+    background-color: #231f1f;
+    border: 2px solid #fff;
+    display: block;
+    margin: 0 auto;
+    cursor: crosshair;
+}
+
+.paddle {
+    background-color: #FF5733; /* Orange color for the paddle */
+}
+
+.brick {
+    background-color: #3498db; /* Blue color for the bricks */
+}
+
+.score {
+    font-size: 18px;
+    color: #FFD700; /* Gold color for the score */
+}
