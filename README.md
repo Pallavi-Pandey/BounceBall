@@ -14,7 +14,7 @@ The game features a bouncing ball, a paddle controlled by the player, and bricks
 
 ## Preview
 
-You can play the game by opening the link `https://pallavi-pandey.github.io/BounceBall/` in your web browser or by opening the `index.html` file in your web browser.
+You can play the game by opening the link [https://pallavi-pandey.github.io/BounceBall/](https://pallavi-pandey.github.io/BounceBall/) in your web browser or by opening the `index.html` file in your web browser.
 
 ## Author
 
@@ -23,9 +23,3 @@ You can play the game by opening the link `https://pallavi-pandey.github.io/Boun
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Special thanks to [Name of Any External Libraries/Frameworks Used] for their contributions to this project.
-
-Feel free to customize this template with your project-specific information. Make sure to include any additional sections or details relevant to your game. Once you've created your `README.md` file, you can add it to your GitHub repository to provide information to potential users and contributors.
